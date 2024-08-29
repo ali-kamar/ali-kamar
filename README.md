@@ -10,7 +10,7 @@
  
  🔭 I’m currently working on **MyShopAdmin**
 
-💬 Ask me about **NodeJS, ExpressJS, ReactJS, MonogoDb**
+💬 Ask me about **NodeJS, ExpressJS, ReactJS, MonogoDB, PostgreSQL**
 
  </div>
  
@@ -30,7 +30,7 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,express,nodejs" />
     <br/>
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,php,mongodb" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,php,mongodb,postgresql" />
     <br/>
     <img src="https://skillicons.dev/icons?i=java,mysql,tailwind,vscode,github,git,bootstrap" /><br>
 </div>
