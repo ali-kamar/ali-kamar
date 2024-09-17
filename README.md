@@ -10,7 +10,7 @@
  
  🔭 I’m currently working on **1$ And More**
 
-💬 Ask me about **NodeJS, ExpressJS, ReactJS, MonogoDB, PostgreSQL**
+💬 Ask me about **NodeJS, ExpressJS, ReactJS, MonogoDB, PostgreSQL, TailwindCSS**
 
  </div>
  
