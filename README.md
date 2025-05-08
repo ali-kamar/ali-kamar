@@ -8,7 +8,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **1$ And More**
+ 🔭 I’m currently working on **Mobi_Find**
 
 💬 Ask me about **NodeJS, ExpressJS, ReactJS, MonogoDB, PostgreSQL, TailwindCSS**
 
@@ -43,7 +43,7 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ali-kamar&theme=transparent" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Ali-kamar&theme=transparent" alt="GitHub Streak" /></a>
 </div>
 
 <br/><br/>
